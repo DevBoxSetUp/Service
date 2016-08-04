@@ -1,0 +1,4 @@
+{
+  "services": ["admin","login","token-service","tableau-gateway"],
+  "assets": ["admin-assets","login-assets"]
+}
